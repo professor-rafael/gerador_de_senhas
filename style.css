@@ -47,7 +47,7 @@ body{
     color: var(--branco);
     font-family: var(--roboto-mono);
     font-size: 40px;
-    width: 70%;
+    width: 70px;
 }
 
 #campo-senha:focus{
